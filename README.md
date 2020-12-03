@@ -1,1 +1,2 @@
-# SaveAs
+npm install
+expo start
